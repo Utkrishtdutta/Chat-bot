@@ -1,0 +1,7 @@
+TP/TP+FP = TP/PSS = Precision
+TP/TP+FN = TP/ESS = Recall
+
+
+actual(Expected) :- column
+pred(Prediction) :- row
+
